@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Image404 from './images/Image.jpeg'
 
@@ -14,7 +13,7 @@ function App() {
         
         <div className="App-body-row">
           <div className="App-body-component">
-              <img src={Image404} alt="404 image not found" />
+              <img src={Image404} alt="404 not found" />
               <h1>Black jack</h1>
               <p>Det va en uppgift då jag och en arbetskamrat jobbade tillsamans för att ska en black jack app som kunde andvändas för att öva på spelet.
                  Den saknar en frontend och betting men kan andvändas för att öva regelerna.</p>
@@ -22,16 +21,16 @@ function App() {
                  github</a>
           </div>
           <div className="App-body-component">
-              <img src={Image404} alt="404 image not found" />
+              <img src={Image404} alt="404 not found" />
           </div>
         </div>
 
         <div className="App-body-row">
           <div className="App-body-component">
-              <img src={Image404} alt="404 image not found" />
+              <img src={Image404} alt="404 not found" />
           </div>
           <div className="App-body-component">
-            <img src={Image404} alt="404 image not found" />
+            <img src={Image404} alt="404 not found" />
           
           </div>
         </div>
